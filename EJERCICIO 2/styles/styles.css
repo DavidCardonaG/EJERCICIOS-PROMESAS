@@ -1,0 +1,27 @@
+body{
+    background-image:url('https://elevatecnologia.com/wp-content/uploads/2020/11/%C2%BFComo-es-beneficioso-ReactJS.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration:overline;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    font-size: 4rem;
+}
+p{
+    font-size:2rem;
+    color: white;
+    background-color: rgba(102, 104, 105, 0.459);
+}
+
+#main{
+    font-size: 3rem;
+    color: white;
+    background-color:rgba(168, 56, 56, 0.651);
+    margin-top:10rem;
+
+}

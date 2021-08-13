@@ -1,0 +1,23 @@
+body{
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/405/994/342/ajax-css-html-it-design-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size:3rem;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p{
+    color: white;
+    font-size:2rem;
+}
+
+#main{
+    text-align: center;
+    color: white;
+    font-size:5rem;
+}

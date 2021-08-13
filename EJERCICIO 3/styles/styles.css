@@ -1,0 +1,40 @@
+body{
+    background-image: url('https://i.ytimg.com/vi/OXpZfyVXeI8/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size:5rem;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size:2rem;
+    background-color: rgba(134, 129, 129, 0.719);
+}
+#data{
+    font-size:3rem;
+    color: white;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:rgba(78, 75, 75, 0.747)
+}
+#user #años #kg{
+    font-size:3rem;
+    color: white;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+#result{
+    font-size:4rem;
+    color: white;
+    text-align:center;
+    background-color:rgba(161, 142, 77, 0.76);
+    margin-top: 6rem;
+}
